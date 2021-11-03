@@ -1,0 +1,11 @@
+# ninja log v5
+1	148	6575774369560356	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-mkdir	538d5f5804648b59
+149	4466	6575774412745334	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-download	d27bb18a4cf3247e
+4466	4563	0	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-update	873a41586eb08d07
+4563	4605	6575774414132307	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-patch	ccc55ec1e6c02f75
+4605	4647	6575774414562407	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-configure	2d76679ad76dee9b
+4648	4689	6575774414980852	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-build	30193f96d582b7eb
+4689	4729	6575774415370946	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-install	d27c7d2ed94fc014
+4729	4770	6575774415781032	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-test	6c7c8cb960036059
+4770	4827	6575774416361162	CMakeFiles/glfw_external-populate-complete	a922ef64b63c0a63
+4770	4827	6575774416361162	glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-done	a922ef64b63c0a63

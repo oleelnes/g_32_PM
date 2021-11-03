@@ -1,0 +1,14 @@
+# Target labels
+ glfw_external-populate
+# Source files and their labels
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/CMakeFiles/glfw_external-populate
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/CMakeFiles/glfw_external-populate.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/CMakeFiles/glfw_external-populate-complete.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-build.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-configure.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-download.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-install.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-mkdir.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-patch.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-test.rule
+C:/Users/oleel/Documents/SKOLE/semester_1/Grafprog/Oblig 1/PacMan_Group_32/out/build/x64-Debug/_deps/glfw_external-subbuild/glfw_external-populate-prefix/src/glfw_external-populate-stamp/glfw_external-populate-update.rule
